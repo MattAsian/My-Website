@@ -1,0 +1,11 @@
+body {
+    background: rgb(255, 255, 255);
+    width:auto;
+    height: auto;
+  }
+
+h2 {
+  background-color: rgb(47, 118, 73);
+  width: auto;
+  height: 70px;
+}
